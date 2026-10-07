@@ -1,0 +1,29 @@
+{
+  "updated": "2026-10-07T14:22:33.561006-04:00",
+  "record": {
+    "settled": 0,
+    "both_worthless": 0,
+    "win_rate": null
+  },
+  "picks": [
+    {
+      "date": "2026-10-07",
+      "price": 156.95,
+      "sigma_pct": 14.8,
+      "k": 1.0,
+      "call_strike": 180,
+      "put_strike": 134,
+      "expiry": "2026-10-14",
+      "inside_rate_hist": 0.615,
+      "sentiment": 5.5,
+      "reasons": [
+        "\u00b11\u03c3 of trailing 13-week realized vol (14.8%)"
+      ],
+      "settled": false,
+      "settle_price": null,
+      "settle_date": null,
+      "call_worthless": null,
+      "put_worthless": null
+    }
+  ]
+}
