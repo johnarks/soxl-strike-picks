@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T10:10:11.083259-04:00",
+  "updated": "2026-10-09T10:10:14.203274-04:00",
   "record": {
     "settled": 0,
     "both_worthless": 0,
@@ -37,6 +37,25 @@
       "sentiment": 4.5,
       "reasons": [
         "\u00b11\u03c3 of trailing 13-week realized vol (14.8%)"
+      ],
+      "settled": false,
+      "settle_price": null,
+      "settle_date": null,
+      "call_worthless": null,
+      "put_worthless": null
+    },
+    {
+      "date": "2026-10-09",
+      "price": 139.97,
+      "sigma_pct": 15.2,
+      "k": 1.0,
+      "call_strike": 161,
+      "put_strike": 119,
+      "expiry": "2026-10-16",
+      "inside_rate_hist": 0.615,
+      "sentiment": 4.5,
+      "reasons": [
+        "\u00b11\u03c3 of trailing 13-week realized vol (15.2%)"
       ],
       "settled": false,
       "settle_price": null,
