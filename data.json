@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-26T10:10:08.893583-04:00",
+  "updated": "2026-10-27T10:10:08.609975-04:00",
   "record": {
-    "settled": 8,
-    "both_worthless": 2,
-    "win_rate": 0.25
+    "settled": 9,
+    "both_worthless": 3,
+    "win_rate": 0.333
   },
   "picks": [
     {
@@ -173,11 +173,11 @@
         "\u00b11\u03c3 of trailing 13-week realized vol (15.8%)",
         "widened: >25% weekly move in last 4 weeks"
       ],
-      "settled": false,
-      "settle_price": null,
-      "settle_date": null,
-      "call_worthless": null,
-      "put_worthless": null
+      "settled": true,
+      "settle_price": 90.5,
+      "settle_date": "2026-10-26",
+      "call_worthless": true,
+      "put_worthless": true
     },
     {
       "date": "2026-10-20",
@@ -269,6 +269,26 @@
       "expiry": "2026-11-02",
       "inside_rate_hist": 0.769,
       "sentiment": 3.7,
+      "reasons": [
+        "\u00b11\u03c3 of trailing 13-week realized vol (16.0%)",
+        "widened: >25% weekly move in last 4 weeks"
+      ],
+      "settled": false,
+      "settle_price": null,
+      "settle_date": null,
+      "call_worthless": null,
+      "put_worthless": null
+    },
+    {
+      "date": "2026-10-27",
+      "price": 94.95,
+      "sigma_pct": 16.0,
+      "k": 1.25,
+      "call_strike": 114,
+      "put_strike": 76,
+      "expiry": "2026-11-03",
+      "inside_rate_hist": 0.769,
+      "sentiment": 7.8,
       "reasons": [
         "\u00b11\u03c3 of trailing 13-week realized vol (16.0%)",
         "widened: >25% weekly move in last 4 weeks"
